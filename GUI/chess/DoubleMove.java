@@ -40,5 +40,4 @@ public class DoubleMove implements Move {
 
     // The second move
     private SingleMove _move2;
-
 }
