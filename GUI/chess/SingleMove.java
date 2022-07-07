@@ -100,5 +100,4 @@ public class SingleMove implements Move {
 
     // y-location of _target
     private int _y2;
-
 }
