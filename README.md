@@ -2,6 +2,8 @@
 ## Introduction: 
 Chess is a board game played between two players. It is played on a square chessboard with 64 squares arranged in an 8*8 grid. At the start, each player (one controlling the white pieces, the other controlling the black pieces) controls sixteen pieces: one king, one queen, two rooks, two bishops, two knights, and eight pawns. The object of the game is to checkmate the opponent's king, whereby the king is under immediate attack (in "check") and there is no way for it to escape. There are also several ways a game can end in a draw.
 
+(Source: <a href="https://en.wikipedia.org/wiki/Chess" target="_blank">Chess</a>)
+
 <img src="https://www.chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png" width="400" height="400">
 <img src="https://github.com/Utsav3791/Chess/blob/main/GUI/chess/images/pieces/movement.PNG" width="600" height="400">
 
