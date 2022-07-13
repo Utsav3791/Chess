@@ -45,5 +45,4 @@ enum PieceColor {
             return 1;
         }
     }
-
-}
+    }
